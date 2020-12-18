@@ -1,8 +1,3 @@
-LiveData - Solution Code
-==================================
-
-This is solution code for Use as starter code for the LiveData codelab.
-
 Introduction
 ------------
 
